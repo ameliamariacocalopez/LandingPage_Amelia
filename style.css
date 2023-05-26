@@ -265,7 +265,7 @@ li a.active, li a:hover{
   
     header .navbar {
       flex-direction: column;
-      align-items: flex-end;
+      align-items: flex-end; /*elementos agrupados al final*/
       margin-top: 20px;
     }
   
